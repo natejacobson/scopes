@@ -14,10 +14,10 @@ $boost=2,site=amgreatness.com
 $boost=3,site=theamericanconservative.com
 $boost=2,site=americanmind.org
 $boost=3,site=theblaze.com
-$boost=0,site=breitbart.com
-$boost=0,site=bearingdrift.com
+$boost=1,site=breitbart.com
+$boost=1,site=bearingdrift.com
 $boost=3,site=bitchute.com
-$boost=0,site=bonginoreport.com
+$boost=1,site=bonginoreport.com
 $boost=2,site=campusreform.org
 $boost=2,site=capitalresearch.org
 $boost=3,site=cbn.com
