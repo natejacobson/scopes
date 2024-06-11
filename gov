@@ -7,5 +7,5 @@
 
 $discard
 
-$boost,site=*.gov
-$boost,site=*.mil
+$boost,site=gov
+$boost,site=mil
