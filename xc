@@ -12,7 +12,6 @@ $boost=2,site=americanaffairsjournal.org
 $boost=3,site=americanthinker.com
 $boost=2,site=amgreatness.com
 $boost=3,site=theamericanconservative.com
-
 $boost=2,site=americanmind.org
 $boost=3,site=theblaze.com
 $boost=0,site=breitbart.com
@@ -84,7 +83,6 @@ $boost=2,site=loneconservative.com
 $boost=2,site=mercatornet.com
 $boost=2,site=mereorthodoxy.com
 $boost=2,site=muckraker.com
-
 $boost=2,site=themichiganstar.com
 /opinion^$boost=3,site=nypost.com
 /insiders^$boost=3,site=newsmax.com
@@ -207,8 +205,4 @@ $boost=2,site=victimsofcommunism.org
 $boost=2,site=aim.org
 $boost=4,site=newsbusters.org
 $boost=4,site=mrc.org
-
-! Deboost INGSOC
-
-! Exclude INGSOC
 
