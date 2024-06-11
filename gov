@@ -8,3 +8,4 @@
 $discard
 
 $boost,site=*.gov
+$boost,site=*.mil
