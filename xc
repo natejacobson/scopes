@@ -1,5 +1,5 @@
 ! name: Christian Conservative
-! description: Scope: Christian and conservative sources.
+! description: Scope: Christian and conservative sources only.
 ! public: false
 ! author: Nathan J.
 ! homepage: https://scopes.quest
