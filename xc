@@ -14,10 +14,7 @@ $boost=2,site=amgreatness.com
 $boost=3,site=theamericanconservative.com
 $boost=2,site=americanmind.org
 $boost=3,site=theblaze.com
-!$boost=2,site=breitbart.com
-!$boost=2,site=bearingdrift.com
 $boost=3,site=bitchute.com
-!$boost=2,site=bonginoreport.com
 $boost=2,site=campusreform.org
 $boost=2,site=capitalresearch.org
 $boost=3,site=cbn.com
