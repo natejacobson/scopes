@@ -1,0 +1,10 @@
+! name: Government
+! description: Scope: US Government and Military only.
+! public: true
+! author: Nathan J.
+! homepage: https://scopes.quest
+! avatar: #ca0800
+
+$discard
+
+$boost,site=*.gov
