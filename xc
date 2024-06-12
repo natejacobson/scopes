@@ -7,6 +7,19 @@
 
 $discard
 
+! Christian
+
+$boost=2,site=christianpost.com
+$boost=2,site=christianitytoday.com
+$boost=2,site=creation.com
+$boost=2,site=firstthings.com
+$boost,site=gotquestions.org
+$boost=2,site=salvo.com
+$boost,site=seenandunseen.com
+$boost=8,site=wng.org
+
+! Conservative
+
 $boost=2,site=atlasone.org
 $boost=2,site=americanaffairsjournal.org
 $boost=3,site=americanthinker.com
@@ -27,15 +40,13 @@ $boost=2,site=conservativehq.com
 $boost=2,site=conservativereview.com
 $boost=2,site=commentary.org
 $boost=2,site=thechicagothinker.com
-$boost=2,site=christianpost.com
-$boost=2,site=christianitytoday.com
 $boost=2,site=city-journal.org
 $boost=2,site=thecollegefix.com
 $boost=2,site=clownworld.today
 $boost=3,site=cnsnews.com
 $boost=3,site=theconservateur.com
 $boost=5,site=compactmag.com
-$boost=2,site=creation.com
+
 $boost=2,site=thecritic.co.uk
 $boost=3,site=dailymail.co.uk
 $boost=3,site=dailycaller.com
@@ -49,7 +60,6 @@ $boost=2,site=thedispatch.com
 $boost=2,site=eviemagazine.com
 $boost=2,site=theepochtimes.com
 $boost=2,site=thefederalist.com
-$boost=2,site=firstthings.com
 $boost=2,site=freedomhouse.org
 $boost=2,site=freebeacon.com
 $boost=2,site=foxbusiness.com
@@ -125,8 +135,7 @@ $boost=2,site=reason.org
 $boost=2,site=reason.com
 $boost=2,site=redstate.com
 $boost=2,site=revolver.news
-$boost=2,site=salvo.com
-$boost=2,site=theresurgent.com
+
 $boost=2,site=richmond.com
 $boost=2,site=ricochet.com
 $boost=1,site=rumble.com
@@ -146,9 +155,10 @@ $boost=3,site=westernjournalism.com
 $boost=3,site=washingtonexaminer.com
 $downrank=5,site=washingtonpost.com
 $boost=4,site=wnd.com
-$boost=8,site=wng.org
 /public/page/news-opinion-commentary.html^$boost=3,site=online.wsj.com
 $boost=2,site=wyofile.com
+
+! Social
 $boost=5,site=x.com
 
 ! Meta-analysis
@@ -166,7 +176,7 @@ $boost=3,site=newadvent.org
 $boost=5,site=newworldencyclopedia.org
 $boost=5,site=plato.stanford.edu
 $boost=5,site=search.credoreference.com
-$downrank=7,site=wikipedia.org
+! $downrank=7,site=wikipedia.org
 
 ! Journals and Academic Works
 $boost=2,site=academic.oup.com
@@ -186,6 +196,7 @@ $boost=3,site=aei.org
 $boost=3,site=atlasnetwork.org
 /catalyst/index.html^$boost=2,site=bushcenter.org
 $boost=2,site=brownstone.org
+$boost,site=brookings.edu
 $boost=7,site=discovery.org
 $boost=5,site=evolutionnews.org
 $boost=5,site=humanize.today
