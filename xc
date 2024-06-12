@@ -9,14 +9,17 @@ $discard
 
 ! Christian
 
-$boost=2,site=christianpost.com
-$boost=2,site=christianitytoday.com
-$boost=2,site=creation.com
-$boost=2,site=firstthings.com
+$boost,site=biblehub.com
+$boost,site=bibleref.com
+$boost,site=christianpost.com
+$boost,site=christianitytoday.com
+$boost,site=cleartruth.media
+$boost,site=creation.com
+$boost,site=firstthings.com
 $boost,site=gotquestions.org
-$boost=2,site=salvo.com
+$boost,site=salvo.com
 $boost,site=seenandunseen.com
-$boost=8,site=wng.org
+$boost,site=wng.org
 
 ! Conservative
 
