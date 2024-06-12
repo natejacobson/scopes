@@ -17,6 +17,7 @@ $boost,site=cleartruth.media
 $boost,site=creation.com
 $boost,site=firstthings.com
 $boost,site=gotquestions.org
+$bost,site=historicalapologetics.org
 $boost,site=salvo.com
 $boost,site=seenandunseen.com
 $boost,site=wng.org
