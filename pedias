@@ -24,8 +24,10 @@ $boost=2,site=scholarpedia.org
 $downrank=7,site=wikipedia.org
 
 ! Museums
-/research/tools/portal/$boost,site=getty.edu
-
+$boost,site=getty.edu
+/en/$boost,site=europeana.eu
+$boost,site=arthistoryresearch.net
+$boost,site=library.si.edu
 
 ! Reference
 $boost,site=dictionary.com
