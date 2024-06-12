@@ -1,0 +1,11 @@
+! name: Academic
+! description: Scope: Educational, Academic, and Scholarly Resources.
+! public: true
+! author: Nathan J.
+! homepage: https://scopes.quest
+! avatar: #ca0800
+
+$discard
+
+$boost,site=edu
+$boost,site=scholar.google.com
