@@ -7,4 +7,30 @@
 
 $discard
 
-! Christian
+! Encyclopedias
+$boost=5,site=britannica.com
+$boost=2,site=conservapedia.com
+$boost=5,site=encyclopedia.com
+$boost=2,site=iep.utm.edu
+$boost=2,site=howstuffworks.com
+$boost=2,site=infoplease.com
+$boost=3,site=newadvent.org
+$boost=5,site=newworldencyclopedia.org
+$boost=5,site=plato.stanford.edu
+$boost=5,site=search.credoreference.com
+! $downrank=7,site=wikipedia.org
+
+! Reference
+$boost,site=sparknotes.com
+
+! Journals and Academic Works
+$boost=2,site=academic.oup.com
+$boost=5,site=christianscholars.com
+$boost=5,site=epsociety.org
+$boost=5,site=scholar.google.com
+
+! Original Sources
+$boost=3,site=archive.org
+$boost=3,site=gutenberg.org
+$boost=3,site=books.google.com
+$boost=3,site=loc.gov
