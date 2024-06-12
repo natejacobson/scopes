@@ -17,7 +17,7 @@ $boost,site=cleartruth.media
 $boost,site=creation.com
 $boost,site=firstthings.com
 $boost,site=gotquestions.org
-$bost,site=historicalapologetics.org
+$boost,site=historicalapologetics.org
 $boost,site=salvo.com
 $boost,site=seenandunseen.com
 $boost,site=wng.org
@@ -50,7 +50,6 @@ $boost=2,site=clownworld.today
 $boost=3,site=cnsnews.com
 $boost=3,site=theconservateur.com
 $boost=5,site=compactmag.com
-
 $boost=2,site=thecritic.co.uk
 $boost=3,site=dailymail.co.uk
 $boost=3,site=dailycaller.com
@@ -139,7 +138,6 @@ $boost=2,site=reason.org
 $boost=2,site=reason.com
 $boost=2,site=redstate.com
 $boost=2,site=revolver.news
-
 $boost=2,site=richmond.com
 $boost=2,site=ricochet.com
 $boost=1,site=rumble.com
