@@ -9,7 +9,6 @@ $discard
 
 ! Encyclopedias
 $boost=5,site=britannica.com
-$boost=2,site=conservapedia.com
 $boost=5,site=encyclopedia.com
 $boost=2,site=iep.utm.edu
 $boost=2,site=howstuffworks.com
@@ -18,10 +17,23 @@ $boost=3,site=newadvent.org
 $boost=5,site=newworldencyclopedia.org
 $boost=5,site=plato.stanford.edu
 $boost=5,site=search.credoreference.com
-! $downrank=7,site=wikipedia.org
+
+! Wikis
+$boost=2,site=conservapedia.com
+$boost=2,site=scholarpedia.org
+$downrank=7,site=wikipedia.org
+
+! Museums
+/research/tools/portal/$boost,site=getty.edu
+
 
 ! Reference
+$boost,site=dictionary.com
 $boost,site=sparknotes.com
+$boost,site=thesaurus.com
+
+! Science
+$boost,site=evolutionnews.org
 
 ! Journals and Academic Works
 $boost=2,site=academic.oup.com
