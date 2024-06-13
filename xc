@@ -1,6 +1,6 @@
 ! name: Christian Conservative
 ! description: Scope: Christian and conservative sources only.
-! public: false
+! public: true
 ! author: Nathan J.
 ! homepage: https://scopes.quest
 ! avatar: #ca0800
@@ -11,6 +11,7 @@ $discard
 
 $boost,site=biblehub.com
 $boost,site=bibleref.com
+$boost,site=catholicworldreport.com
 $boost,site=christianpost.com
 $boost,site=christianitytoday.com
 $boost,site=cleartruth.media
@@ -33,20 +34,26 @@ $boost=2,site=americanaffairsjournal.org
 $boost=3,site=americanthinker.com
 $boost=2,site=amgreatness.com
 $boost=3,site=theamericanconservative.com
-$boost=2,site=americanmind.org
-$boost=3,site=theblaze.com
+$boost,site=the-american-interest.com
+$boost,site=americanmind.org
+$boost,site=americanoutlook.org
+$boost,site=theblaze.com
 $boost=2,site=breitbart.com
 $boost=2,site=bearingdrift.com
 $boost=3,site=bitchute.com
 $boost=2,site=bonginoreport.com
 $boost=2,site=campusreform.org
 $boost=2,site=capitalresearch.org
+$boost,site=carolinareviewonline.org
 $boost=3,site=cbn.com
 $boost=2,site=thecentersquare.com
 $boost=2,site=chalkboardreview.com
+$boost,site=chroniclesmagazine.org
+$boost,site=claremontreviewofbooks.com
 $boost=2,site=conservativehq.com
 $boost=2,site=conservativereview.com
 $boost=2,site=commentary.org
+$boost,site=thecornellreview.org
 $boost=2,site=thechicagothinker.com
 $boost=2,site=city-journal.org
 $boost=2,site=thecollegefix.com
@@ -63,7 +70,8 @@ $boost=2,site=deseret.com
 $boost=2,site=dailypress.com
 $boost=2,site=dailycitizen.focusonthefamily.com
 $boost=3,site=dailywire.com
-$boost=2,site=thedispatch.com
+$boost,site=dartreview.com
+$boost=5,site=thedispatch.com
 $boost=2,site=eviemagazine.com
 $boost=2,site=theepochtimes.com
 $boost=2,site=thefederalist.com
@@ -166,6 +174,7 @@ $boost=2,site=wyofile.com
 
 ! Social
 $boost=5,site=x.com
+$boost=5,site=substack.com
 
 ! Meta-analysis
 $boost=5,site=allsides.com
@@ -181,7 +190,7 @@ $boost=2,site=infoplease.com
 $boost=3,site=newadvent.org
 $boost=5,site=newworldencyclopedia.org
 $boost=5,site=plato.stanford.edu
-$boost=5,site=search.credoreference.com
+! $boost=5,site=search.credoreference.com
 ! $downrank=7,site=wikipedia.org
 
 ! Journals and Academic Works
