@@ -1,0 +1,33 @@
+! name: Encyclopedias
+! description: Scope: Thinks Tanks and Institutes.
+! public: true
+! author: Nathan J.
+! homepage: https://scopes.quest
+! avatar: #ca0800
+
+$discard
+
+$boost,site=aapeaceinstitute.org
+$boost,site=aei.org ! American Enterprise Institute
+$boost,site=americafirstpolicy.com
+$boost,site=americarenewing.com 
+/en/$boost,site=austrian-institute.org
+$boost,site=americancompass.org ! American Compass
+$boost,site=americarenewing.com
+$boost,site=brownstone.org
+$boost,site=brookings.edu
+$boost,site=cspicenter.com
+$boost,site=discovery.org
+$boost,site=fairforall.org
+$boost,site=cspicenter.com
+$boost,site=friedmancenter.com
+$boost,site=ilvalues.org
+$boost,site=JILV.org
+$boost,site=michelsonpolicy.org
+$boost,site=nextmethodism.org
+$boost,site=racepowerpolicy.org
+$boost,site=io.stanford.edu ! Stanford Internet Observatory
+
+! Encyclopedias
+$boost,site=britannica.com
+$boost,site=encyclopedia.com
