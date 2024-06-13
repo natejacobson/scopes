@@ -8,11 +8,11 @@
 $discard
 
 $boost,site=aapeaceinstitute.org
-$boost,site=aei.org ! American Enterprise Institute
+$boost,site=aei.org
 $boost,site=americafirstpolicy.com
 $boost,site=americarenewing.com 
 /en/$boost,site=austrian-institute.org
-$boost,site=americancompass.org ! American Compass
+$boost,site=americancompass.org
 $boost,site=americarenewing.com
 $boost,site=brownstone.org
 $boost,site=brookings.edu
@@ -26,7 +26,7 @@ $boost,site=JILV.org
 $boost,site=michelsonpolicy.org
 $boost,site=nextmethodism.org
 $boost,site=racepowerpolicy.org
-$boost,site=io.stanford.edu ! Stanford Internet Observatory
+$boost,site=io.stanford.edu
 
 ! Encyclopedias
 $boost,site=britannica.com
