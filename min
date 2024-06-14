@@ -1,1 +1,12 @@
+! name: Ministries
+! description: Scope: Christian Ministries.
+! public: false
+! author: Nathan J.
+! homepage: https://scopes.quest
+! avatar: #ca0800
+
+$discard
+
 /blog/$boost,site=prisonfellowship.org
+$boost,site=cru.org
+$boost,site=intervarsity.org
