@@ -181,7 +181,6 @@ $boost=2,site=upwardnews.com
 $boost=2,site=washingtontimes.com
 $boost=3,site=westernjournalism.com
 $boost=3,site=washingtonexaminer.com
-$downrank=5,site=washingtonpost.com
 $boost=4,site=wnd.com
 /public/page/news-opinion-commentary.html^$boost=3,site=online.wsj.com
 $boost=2,site=wyofile.com
