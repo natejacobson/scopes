@@ -11,11 +11,13 @@ $discard
 
 $boost,site=biblehub.com
 $boost,site=bibleref.com
+$boost,site=thecatholicthing.org
 $boost,site=catholicworldreport.com
 $boost,site=christianpost.com
 $boost,site=christianitytoday.com
 $boost,site=cleartruth.media
 $boost,site=creation.com
+$boost,site=davenantinstitute.org
 $boost,site=equip.org
 $boost,site=firstthings.com
 $boost,site=thegospelcoalition.org
@@ -28,8 +30,9 @@ $boost,site=seenandunseen.com
 $boost,site=touchstonemag.com
 $boost,site=wng.org
 
-! Conservative
+! Publications
 
+$boost,site=adfontesjournal.com
 $boost=2,site=atlasone.org
 $boost=2,site=americanaffairsjournal.org
 $boost=3,site=americanthinker.com
@@ -110,6 +113,7 @@ $boost=2,site=mercatornet.com
 $boost=2,site=mereorthodoxy.com
 $boost=2,site=muckraker.com
 $boost=2,site=themichiganstar.com
+$boost,site=modernagejournal.com
 /opinion^$boost=3,site=nypost.com
 /insiders^$boost=3,site=newsmax.com
 $boost=3,site=newsmax.com
@@ -131,8 +135,6 @@ $boost=2,site=penncapital-star.com
 $boost=2,site=pe.com
 $boost=2,site=thepostmillennial.com
 $boost=2,site=quillette.com
-$boost=2,site=riponadvance.com
-$boost=2,site=rightsidenews.com
 $boost=2,site=readtangle.com
 $boost=5,site=realclearpolitics.com
 $boost=5,site=realcleardefense.com
@@ -153,6 +155,9 @@ $boost=2,site=redstate.com
 $boost=2,site=revolver.news
 $boost=2,site=richmond.com
 $boost=2,site=ricochet.com
+$boost=2,site=riponadvance.com
+$boost=2,site=rightsidenews.com
+$boost,site=rlo.acton.org
 $boost=1,site=rumble.com
 /opinion^$boost=2,site=scriberrnews.com
 $boost=4,site=spectator.org
@@ -207,26 +212,49 @@ $boost=3,site=gutenberg.org
 $boost=3,site=books.google.com
 $boost=3,site=loc.gov
 
-! Think Tanks
+! Think Tanks, Institutes, and Advocacy
 $boost=3,site=aei.org
+$boost,site=americarenewing.com
 $boost=3,site=atlasnetwork.org
 /catalyst/index.html^$boost=2,site=bushcenter.org
 $boost=2,site=brownstone.org
 $boost,site=brookings.edu
+$boost,site=cagw.org
+$boost,site=claremont.org
+$boost,site=cis.org
+$boost,site=cmrlink.org
+$boost,site=coalitionforliberty.com
+$boost,site=committeeforjustice.org
+$boost,site=concernedwomen.org
+$boost,site=consumersresearch.org
+$boost,site=cpi.org
+$boost,site=dfipolicy.org
 $boost=7,site=discovery.org
+$boost,site=eagleforum.org
+$boost,site=eagleforuminfo.blogspot.com
+$boost,site=eppc.org
 $boost=5,site=evolutionnews.org
-$boost=5,site=humanize.today
-$boost=5,site=mindmatters.ai
-$boost=7,site=thenewatlantis.com
-$boost=2,site=mises.org
+$boost,site=familypolicyalliance.com
+$boost,site=fedsforfreedom.org
+$boost,site=fedsoc.org
 $boost=2,site=fee.org
+$boost,site=fixhomelessness.org
+$boost,site=frc.org
 $boost=2,site=judicialwatch.org
 $boost=8,site=heritage.org
 $boost=5,site=hudson.org
+$boost=5,site=humanize.today
+$boost=5,site=mindmatters.ai
+$boost=2,site=mises.org
+$boost=7,site=thenewatlantis.com
 $boost=2,site=pacificresearch.org
+$boost,site=policysphere.com
+/newsroom/$boost,site=prosperousamerica.org
 $boost=8,site=thepublicdiscourse.com
+$boost,site=securefreesociety.org
 $boost=2,site=swprs.org
 $boost=2,site=victimsofcommunism.org
+$boost,site=wealthandpoverty.center
 
 ! Watchdogs
 $boost=2,site=aim.org
