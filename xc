@@ -278,6 +278,7 @@ $boost,site=securefreesociety.org
 $boost=2,site=swprs.org
 $boost=2,site=victimsofcommunism.org
 $boost,site=wealthandpoverty.center
+$boost,site=yaf.org
 
 ! Watchdogs
 $boost=2,site=aim.org
