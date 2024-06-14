@@ -32,9 +32,17 @@ $boost,site=wng.org
 
 ! Publications
 
+$boost,site=1792exchange.com
+$boost,site=aaplog.org
+$boost,site=aclj.org
+$boost,site=adflegal.org
 $boost,site=adfontesjournal.com
+$boost,site=alabamapolicy.org
 $boost=2,site=atlasone.org
 $boost=2,site=americanaffairsjournal.org
+$boost,site=americancompass.org
+$boost,site=americancornerstone.org
+$boost,site=americancommitment.org
 $boost=3,site=americanthinker.com
 $boost=2,site=amgreatness.com
 $boost=3,site=theamericanconservative.com
@@ -214,12 +222,27 @@ $boost=3,site=loc.gov
 
 ! Think Tanks, Institutes, and Advocacy
 $boost=3,site=aei.org
+$boost,site=goacta.org
+$boost,site=afa.net
+$boost,site=aflegal.org
+$boost,site=alec.org
+$boost,site=americanmainstreet.org
+$boost,site=americanjurislink.org
+$boost,site=americanmoment.org
+$boost,site=americanprinciplesproject.org
 $boost,site=americarenewing.com
+$boost,site=amfamproject.org
 $boost=3,site=atlasnetwork.org
+$boost,site=aul.org
+$boost,site=thearp.org
 /catalyst/index.html^$boost=2,site=bushcenter.org
 $boost=2,site=brownstone.org
 $boost,site=brookings.edu
+$boost,site=californiafamily.org
 $boost,site=cagw.org
+$boost,site=centennial.ccu.edu
+$boost,site=ceousa.org
+$boost,site=c-fam.org
 $boost,site=claremont.org
 $boost,site=cis.org
 $boost,site=cmrlink.org
@@ -244,6 +267,7 @@ $boost=2,site=judicialwatch.org
 $boost=8,site=heritage.org
 $boost=5,site=hudson.org
 $boost=5,site=humanize.today
+$boost,site=mindingthecampus.org
 $boost=5,site=mindmatters.ai
 $boost=2,site=mises.org
 $boost=7,site=thenewatlantis.com
