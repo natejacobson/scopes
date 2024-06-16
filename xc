@@ -26,6 +26,7 @@ $boost,site=gotquestions.org
 $boost,site=herzogfoundation.com
 $boost,site=historicalapologetics.org
 $boost,site=ligonier.org
+$boost,site=nrb.org
 $boost,site=rethinkinghell.com
 $boost,site=salvo.com
 $boost,site=seenandunseen.com
@@ -42,6 +43,7 @@ $boost,site=adflegal.org
 $boost,site=adfontesjournal.com
 $boost,site=alabamapolicy.org
 $boost,site=atlasone.org
+
 $boost,site=americanaffairsjournal.org
 $boost,site=americancompass.org
 $boost,site=americancornerstone.org
@@ -52,6 +54,7 @@ $boost,site=theamericanconservative.com
 $boost,site=the-american-interest.com
 $boost,site=americanmind.org
 $boost,site=americanoutlook.org
+$boost,site=amworkers.com
 $boost,site=theblaze.com
 $boost,site=breitbart.com
 $boost,site=bearingdrift.com
@@ -75,6 +78,8 @@ $boost,site=thecollegefix.com
 $boost,site=clownworld.today
 $boost,site=cnsnews.com
 $boost,site=theconservateur.com
+$boost,site=conservative.ca
+$boost,site=conservatives.com
 $boost,site=compactmag.com
 $boost,site=thecritic.co.uk
 $boost,site=dailymail.co.uk
@@ -91,6 +96,7 @@ $boost,site=eviemagazine.com
 $boost,site=theepochtimes.com
 $boost,site=evolutionnews.org
 $boost,site=thefederalist.com
+
 $boost,site=freedomhouse.org
 $boost,site=freebeacon.com
 $boost,site=foxbusiness.com
@@ -105,6 +111,7 @@ $boost,site=harvard-jlpp.com
 $boost,site=heavy.com
 $boost,site=hotair.com
 $boost,site=humanevents.com
+$boost,site=hungarianconservative.com
 $boost,site=icr.org
 $boost,site=theimaginativeconservative.org
 $boost,site=iowatorch.com
@@ -119,9 +126,15 @@ $boost,site=thelibertarianrepublic.com
 $boost,site=lifesitenews.com
 $boost,site=thegatewaypundit.com
 $boost,site=thefiscaltimes.com
+$boost,site=thelibertyloft.com
+$boost,site=libertynation.com
 $boost,site=liveactionnews.org
+$boost,site=leadershipinstitute.org
 $boost,site=leesburgtoday.com
 $boost,site=loneconservative.com
+$boost,site=mackinac.org
+$boost,site=maloneinstitute.org
+$boost,site=meforum.org
 $boost,site=mercatornet.com
 $boost,site=mereorthodoxy.com
 $boost,site=muckraker.com
@@ -130,6 +143,7 @@ $boost,site=modernagejournal.com
 /opinion^$boost=3,site=nypost.com
 /insiders^$boost=3,site=newsmax.com
 $boost,site=newsmax.com
+$boost,site=newsbusters.org
 $boost,site=newsnationnow.com
 $boost,site=nationalreview.com
 $boost,site=nationalpost.com
@@ -148,7 +162,9 @@ $boost,site=prageru.com
 $boost,site=projectveritas.com
 $boost,site=penncapital-star.com
 $boost,site=pe.com
+$boost,site=thepoliticalinsider.com
 $boost,site=thepostmillennial.com
+$boost,site=powerlineblog.com
 $boost,site=quillette.com
 $boost,site=readtangle.com
 $boost,site=realclearpolitics.com
@@ -183,6 +199,7 @@ $boost,site=stream.org
 $boost,site=telegraph.co.uk
 $boost,site=tabletmag.com
 $boost,site=thetexan.news
+$boost,site=tnc.news
 $boost,site=townhall.com
 $boost,site=unherd.com
 $boost,site=upwardnews.com
@@ -191,6 +208,7 @@ $boost,site=westernjournalism.com
 $boost,site=washingtonexaminer.com
 $boost,site=wnd.com
 $boost,site=woodsoncenter.org
+$boost,site=workersforopportunity.org
 $boost,site=wsj.com
 $boost,site=wyofile.com
 
@@ -202,6 +220,9 @@ $boost,site=substack.com
 $boost,site=allsides.com
 $boost,site=ground.news
 $boost,site=mrc.org
+
+! Political 
+$boost,site=gop.gov
 
 ! Encyclopedias
 $boost=5,site=britannica.com
@@ -227,15 +248,17 @@ $boost=5,site=scholar.google.com
 $boost,site=archive.org
 $boost,site=gutenberg.org
 $boost,site=books.google.com
+$boost,site=grabien.com
 $boost,site=loc.gov
 
 ! Museums
 $boost,site=reaganlibrary.gov
 $boost,site=museumofthebible.org
 
-! Universities
+! Universities and Academia
 $boost,site=hillsdale.edu
 $boost,site=liberty.edu
+$boost,site=nas.org
 $boost,site=biola.edu
 $boost,site=phc.edu
 
@@ -275,6 +298,7 @@ $boost,site=discovery.org
 $boost,site=eagleforum.org
 $boost,site=eagleforuminfo.blogspot.com
 $boost,site=eppc.org
+$boost,site=foramerica.org
 $boost,site=thefai.org
 $boost,site=familypolicyalliance.com
 $boost,site=fdfnational.org
@@ -303,23 +327,42 @@ $boost,site=macarthursociety.org
 $boost,site=mindingthecampus.org
 $boost,site=mindmatters.ai
 $boost,site=mises.org
+$boost,site=momsforliberty.org
+$boost,site=nationalcenter.org
 $boost,site=nativesovereignty.com
 $boost,site=thenewatlantis.com
+$boost,site=nra.org
+$boost,site=nrtw.org
 $boost,site=nwef.org
 $boost,site=ocpathink.org
 $boost,site=pacificresearch.org
+$boost,site=personnelpolicyops.org
 $boost,site=policysphere.com
+$boost,site=publicinterestlegal.org
 /newsroom/$boost,site=prosperousamerica.org
 $boost,site=thepublicdiscourse.com
+$boost,site=recoveryforamerica.org
 $boost,site=reformeducation.us
+$boost,site=saveservices.org
+$boost,site=sbaprolife.org
 $boost,site=securefreesociety.org
+$boost,site=starrs.us
+$boost,site=studentsforlife.org
 $boost,site=swprs.org
 $boost,site=victimsofcommunism.org
 $boost,site=wealthandpoverty.center
 $boost,site=yaf.org
 
 ! States
+$boost,site=frankbeckmanncenterforjournalism.com
 $boost,site=npri.org
+$boost,site=michigancapitolconfidential.com
+$boost,site=mspolicy.org
+$boost,site=mountainstatespolicy.org
+$boost,site=palmbeachfreedom.org
+$boost,site=palmettopromise.org
+$boost,site=pok.org
+$boost,site=texaspolicy.com
 
 ! Watchdogs
 $boost=2,site=aim.org
