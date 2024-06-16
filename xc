@@ -31,6 +31,7 @@ $boost,site=salvo.com
 $boost,site=seenandunseen.com
 $boost,site=touchstonemag.com
 $boost,site=wng.org
+$boost,site=worldviewbulletin.substack.com
 
 ! Publications
 
@@ -88,6 +89,7 @@ $boost,site=dartreview.com
 $boost,site=thedispatch.com
 $boost,site=eviemagazine.com
 $boost,site=theepochtimes.com
+$boost,site=evolutionnews.org
 $boost,site=thefederalist.com
 $boost,site=freedomhouse.org
 $boost,site=freebeacon.com
@@ -139,7 +141,8 @@ $boost,site=nypost.com
 $boost,site=nfib.com
 $boost,site=thenationalpulse.com
 $boost,site=ocregister.com
-$boost,site=letter.palladiummag.com
+$boost,site=palladiummag.com
+$boost,site=newsweek.com
 $boost,site=pjmedia.com
 $boost,site=prageru.com
 $boost,site=projectveritas.com
@@ -161,42 +164,44 @@ $boost,site=realclearreligion.org
 /r/libertarian/$boost=3,site=reddit.com
 /r/conservative/$boost=3,site=reddit.com
 /r/Conservative/$boost=3,site=reddit.com
-$boost=2,site=reason.org
-$boost=2,site=reason.com
-$boost=2,site=redstate.com
-$boost=2,site=revolver.news
-$boost=2,site=richmond.com
-$boost=2,site=ricochet.com
-$boost=2,site=riponadvance.com
-$boost=2,site=rightsidenews.com
+$boost,site=reason.org
+$boost,site=reason.com
+$boost,site=redstate.com
+$boost,site=revolver.news
+$downrank=5,site=reuters.com
+$boost,site=richmond.com
+$boost,site=ricochet.com
+$boost,site=riponadvance.com
+$boost,site=rightsidenews.com
 $boost,site=rlo.acton.org
 $boost=1,site=rumble.com
-/opinion^$boost=2,site=scriberrnews.com
+/opinion^$boost,site=scriberrnews.com
 $boost=4,site=spectator.org
-/international/$boost=3,site=spiegel.de
-$boost=3,site=spiked-online.com
-$boost=4,site=stream.org
-$boost=2,site=telegraph.co.uk
-$boost=2,site=tabletmag.com
-$boost=2,site=thetexan.news
-$boost=3,site=townhall.com
-$boost=5,site=unherd.com
-$boost=2,site=upwardnews.com
-$boost=2,site=washingtontimes.com
-$boost=3,site=westernjournalism.com
-$boost=3,site=washingtonexaminer.com
-$boost=4,site=wnd.com
+/international/$boost,site=spiegel.de
+$boost,site=spiked-online.com
+$boost,site=stream.org
+$boost,site=telegraph.co.uk
+$boost,site=tabletmag.com
+$boost,site=thetexan.news
+$boost,site=townhall.com
+$boost,site=unherd.com
+$boost,site=upwardnews.com
+$boost,site=washingtontimes.com
+$boost,site=westernjournalism.com
+$boost,site=washingtonexaminer.com
+$boost,site=wnd.com
 $boost,site=woodsoncenter.org
-$boost=3,site=wsj.com
-$boost=2,site=wyofile.com
+$boost,site=wsj.com
+$boost,site=wyofile.com
 
 ! Social
-$boost=5,site=x.com
-$boost=5,site=substack.com
+$boost,site=x.com
+$boost,site=substack.com
 
 ! Meta-analysis
-$boost=5,site=allsides.com
-$boost=5,site=ground.news
+$boost,site=allsides.com
+$boost,site=ground.news
+$boost,site=mrc.org
 
 ! Encyclopedias
 $boost=5,site=britannica.com
@@ -230,6 +235,9 @@ $boost,site=museumofthebible.org
 
 ! Universities
 $boost,site=hillsdale.edu
+$boost,site=liberty.edu
+$boost,site=biola.edu
+$boost,site=phc.edu
 
 ! Think Tanks, Institutes, and Advocacy
 $boost,site=aei.org
@@ -267,7 +275,6 @@ $boost,site=discovery.org
 $boost,site=eagleforum.org
 $boost,site=eagleforuminfo.blogspot.com
 $boost,site=eppc.org
-$boost,site=evolutionnews.org
 $boost,site=thefai.org
 $boost,site=familypolicyalliance.com
 $boost,site=fdfnational.org
@@ -279,6 +286,9 @@ $boost,site=fixhomelessness.org
 $boost,site=frc.org
 $boost,site=freedomsjournalinstitute.org
 $boost,site=gunowners.org
+$boos,site=theiwh.org
+$boost,site=drjamesdobson.org
+$boost,site=jamesmadison.org
 $boost,site=judicialwatch.org
 $boost,site=heartland.org
 $boost,site=heritage.org
@@ -287,21 +297,29 @@ $boost,site=hudson.org
 $boost,site=humanize.today
 $boost,site=i4aw.org
 $boost,site=instituteforenergyresearch.org
+$boost,site=isi.org
 $boost,site=iwf.org
 $boost,site=macarthursociety.org
 $boost,site=mindingthecampus.org
 $boost,site=mindmatters.ai
 $boost,site=mises.org
+$boost,site=nativesovereignty.com
 $boost,site=thenewatlantis.com
+$boost,site=nwef.org
+$boost,site=ocpathink.org
 $boost,site=pacificresearch.org
 $boost,site=policysphere.com
 /newsroom/$boost,site=prosperousamerica.org
 $boost,site=thepublicdiscourse.com
+$boost,site=reformeducation.us
 $boost,site=securefreesociety.org
 $boost,site=swprs.org
 $boost,site=victimsofcommunism.org
 $boost,site=wealthandpoverty.center
 $boost,site=yaf.org
+
+! States
+$boost,site=npri.org
 
 ! Watchdogs
 $boost=2,site=aim.org
