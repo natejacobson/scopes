@@ -310,6 +310,7 @@ $boost,site=firstliberty.org
 $boost,site=fixhomelessness.org
 $boost,site=frc.org
 $boost,site=freedomsjournalinstitute.org
+$boost,site=foundationforfreedomonline.com
 $boost,site=gunowners.org
 $boost,site=theiwh.org
 $boost,site=drjamesdobson.org
