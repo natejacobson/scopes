@@ -7,6 +7,5 @@
 
 $discard
 
-/blog/$boost,site=prisonfellowship.org
-$boost,site=cru.org
-$boost,site=intervarsity.org
+$boost,site=snopes.com
+$boost,site=politifact.com
