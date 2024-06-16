@@ -306,6 +306,7 @@ $boost,site=fedsforfreedom.org
 $boost,site=fedsoc.org
 $boost,site=fee.org
 $boost,site=thefga.org
+$boost,site=firstliberty.org
 $boost,site=fixhomelessness.org
 $boost,site=frc.org
 $boost,site=freedomsjournalinstitute.org
