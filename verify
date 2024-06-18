@@ -7,5 +7,11 @@
 
 $discard
 
+$boost,site=africacheck.org
+$boost,site=factcheckalliance.com
+$boost,site=justthenews.com
 $boost,site=snopes.com
 $boost,site=politifact.com
+$boost,site=realclearinvestigations.com
+$boost,site=verifythis.com
+/fact_meta/$boost,site=twitter.com
