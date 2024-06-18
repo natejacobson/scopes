@@ -7,6 +7,7 @@
 
 $discard
 
+$boost,site=2ndlook.news
 $boost,site=africacheck.org
 $boost,site=factcheckalliance.com
 $boost,site=justthenews.com
