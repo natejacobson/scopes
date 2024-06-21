@@ -226,12 +226,15 @@ $boost,site=gop.gov
 ! Climate and Environment
 $boost,site=alexepstein.substack.com
 $boost,site=cfact.org
+$boost,site=climatechangedispatch.com
+$boost,site=co2coalition.org
 $bost,site=energytalkingpoints.com
 $boost,site=fossilfuture.com
 $boost,site=junkscience.com
 $boost,site=realclimate.org
 $boost,site=lomborg.com
 $boost,site=globalwarming.org
+$boost,site=wattsupwiththat.com
 
 ! Encyclopedias
 $boost=5,site=britannica.com
