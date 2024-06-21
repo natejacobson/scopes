@@ -224,6 +224,11 @@ $boost,site=mrc.org
 ! Political 
 $boost,site=gop.gov
 
+! Climate and Environment
+$boost,site=realclimate.org
+$boost,site=lomborg.com
+$boost,site=globalwarming.org
+
 ! Encyclopedias
 $boost=5,site=britannica.com
 $boost=2,site=conservapedia.com
@@ -284,6 +289,7 @@ $boost,site=californiafamily.org
 $boost,site=cagw.org
 $boost,site=centennial.ccu.edu
 $boost,site=ceousa.org
+$boost,site=cfact.org
 $boost,site=c-fam.org
 $boost,site=claremont.org
 $boost,site=cis.org
@@ -308,6 +314,7 @@ $boost,site=fee.org
 $boost,site=thefga.org
 $boost,site=firstliberty.org
 $boost,site=fixhomelessness.org
+$boost,site=fraserinstitute.org
 $boost,site=frc.org
 $boost,site=freedomsjournalinstitute.org
 $boost,site=foundationforfreedomonline.com
