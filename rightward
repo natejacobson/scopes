@@ -43,7 +43,6 @@ $boost,site=adflegal.org
 $boost,site=adfontesjournal.com
 $boost,site=alabamapolicy.org
 $boost,site=atlasone.org
-
 $boost,site=americanaffairsjournal.org
 $boost,site=americancompass.org
 $boost,site=americancornerstone.org
@@ -225,6 +224,8 @@ $boost,site=mrc.org
 $boost,site=gop.gov
 
 ! Climate and Environment
+$boost,site=cfact.org
+$boost,site=junkscience.com
 $boost,site=realclimate.org
 $boost,site=lomborg.com
 $boost,site=globalwarming.org
@@ -287,9 +288,9 @@ $boost,site=brownstone.org
 $boost,site=brookings.edu
 $boost,site=californiafamily.org
 $boost,site=cagw.org
+$boost,site=cei.org
 $boost,site=centennial.ccu.edu
 $boost,site=ceousa.org
-$boost,site=cfact.org
 $boost,site=c-fam.org
 $boost,site=claremont.org
 $boost,site=cis.org
