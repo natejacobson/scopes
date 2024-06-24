@@ -8,23 +8,27 @@
 $discard
 
 $boost,site=2ndlook.news
+$boost,site=factcheck.afp.com !! AFP Fact Check
 $boost,site=africacheck.org
 $boost,site=bellingcat.org
-$boost,site=csmapnyu.org
-$boost,site=cyber.fsi.stanford.edu
+$boost,site=cip.uw.edu !! Center for an Informed Public at the University of Washington
+$boost,site=citap.unc.edu !! Center for Information and Public Life at UNC
+$boost,site=csmapnyu.org !! Center for Social Media and Politics at NYU
+$boost,site=cyber.fsi.stanford.edu !! Cyber Policy Center at Stanford University
 /category/fact-check/$boost,site=thedispatch.com
-$boost,site=edmo.eu
+$boost,site=edmo.eu !! European Digital Media Observatory
+$boost,site=disinfobservatory.org !! European Disinformation Observatory
 $boost,site=factcheckalliance.com
 $boost,site=integrityinstitute.org
 $boost,site=info-res.org
 $boost,site=justfacts.com
 $boost,site=justthenews.com
+$boost,site=meddmo.eu
 $boost,site=snopes.com
 $boost,site=politifact.com
 $boost,site=realclearinvestigations.com
 /fact-check/$boost,site=reuters.com
 $boost,site=io.stanford.edu
-/io/$boost,site=cyber.fsi.stanford.edu !! Cyber Policty Center at Stanford University
 $boost,site=tspa.org !! Trust & Safety Professional Association
 $boost,site=trustandsafetyfoundation.org
 $boost,site=verifythis.com
