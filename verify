@@ -9,11 +9,15 @@ $discard
 
 $boost,site=2ndlook.news
 $boost,site=africacheck.org
-$boost,site-bellingcat.org
+$boost,site=bellingcat.org
+$boost,site=csmapnyu.org
+$boost,site=cyber.fsi.stanford.edu
 /category/fact-check/$boost,site=thedispatch.com
 $boost,site=edmo.eu
 $boost,site=factcheckalliance.com
+$boost,site=integrityinstitute.org
 $boost,site=info-res.org
+$boost,site=justfacts.com
 $boost,site=justthenews.com
 $boost,site=snopes.com
 $boost,site=politifact.com
@@ -21,6 +25,7 @@ $boost,site=realclearinvestigations.com
 /fact-check/$boost,site=reuters.com
 $boost,site=io.stanford.edu
 /io/$boost,site=cyber.fsi.stanford.edu
+$boost,site=tspa.org
 $boost,site=trustandsafetyfoundation.org
 $boost,site=verifythis.com
 /fact_meta/$boost,site=twitter.com
