@@ -23,6 +23,7 @@ $boost,site=disinformationindex.org !! The Global Disinformation Index
 $boost,site=factcheckalliance.com
 $boost,site=integrityinstitute.org
 $boost,site=info-res.org
+$boost,site=isdglobal.org !! Institute for Strategic Dialogue
 $boost,site=justfacts.com
 $boost,site=justthenews.com
 $boost,site=thelondonstory.org
