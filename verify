@@ -37,20 +37,27 @@ $boost,site=isdglobal.org
 $boost,site=justfacts.com
 $boost,site=justthenews.com
 $boost,site=thelondonstory.org
+/Fahrenthold$boost,site=x.com
+/MiaCathell$boost,site=x.com
+/GlennKesslerWP$boost,site=x.com
+/jevinwest$boost,site=x.com
 $boost,site=meddmo.eu
 $boost,site=snopes.com
 $boost,site=politifact.com
+$boost,site=quoteinvestigator.com
 $boost,site=realclearinvestigations.com
 $boost,site=readsludge.com
 /fact-check/$boost,site=reuters.com
 $boost,site=io.stanford.edu
+!! Shorenstein Center on Media, Politics, and Public Policy at Harvard's Kennedy Center
+$boost,site=shorensteincenter.org
 $boost,site=thetrustproject.org
 !! Trust & Safety Professional Association
 $boost,site=tspa.org
 $boost,site=trustandsafetyfoundation.org
 $boost,site=usafacts.org
-
 $boost,site=verifythis.com
+/factchecker$boost,site=washingtonpost.com
 $boost,site=weverify.eu
 /fact_meta/$boost,site=x.com
 
@@ -75,4 +82,7 @@ $boost,site=newsinitiative.withgoogle.com
 $boost,site=poynter.org
 !! European Journalism Centre
 $boost,site=ejc.net
+$boost,site=journalistsresource.org
+!! The News Literacy Project
+$boost,site=newslit.org
 
