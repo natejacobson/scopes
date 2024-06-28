@@ -9,7 +9,6 @@ $discard
 
 $boost,site=2ndlook.news
 $boost,site=factcheck.afp.com !! AFP Fact Check
-$boost,site=africacheck.org
 $boost,site=bellingcat.org
 $boost,site=cip.uw.edu !! Center for an Informed Public at the University of Washington
 $boost,site=citap.unc.edu !! Center for Information and Public Life at UNC
@@ -17,11 +16,14 @@ $boost,site=climatefactchecks.org
 $boost,site=csmapnyu.org !! Center for Social Media and Politics at NYU
 $boost,site=cyber.fsi.stanford.edu !! Cyber Policy Center at Stanford University
 /category/fact-check/$boost,site=thedispatch.com
-$boost,site=edmo.eu !! European Digital Media Observatory
+$boost,site=dfrlab.org !! Digital Forensic Research Lab, Atlantic Council
 $boost,site=disinfobservatory.org !! European Disinformation Observatory
 $boost,site=disinformationindex.org !! The Global Disinformation Index
-$boost,site=factcheckalliance.com
+$boost,site=drewholden.substack.com !! Holden Court
+$boost,site=factcheckalliance.com !! Fact Check Alliance
+$boost,site=fakehistoryhunter.net !! Fake History Hunter
 $boost,site=integrityinstitute.org
+/ifcn/$boost,site=poynter.org !! International Fact-Checking Network
 $boost,site=info-res.org
 $boost,site=isdglobal.org !! Institute for Strategic Dialogue
 $boost,site=justfacts.com
@@ -31,9 +33,30 @@ $boost,site=meddmo.eu
 $boost,site=snopes.com
 $boost,site=politifact.com
 $boost,site=realclearinvestigations.com
+$boost,site=readsludge.com !! Sludge
 /fact-check/$boost,site=reuters.com
 $boost,site=io.stanford.edu
+$boost,site=thetrustproject.org !! The Trust Project
+
 $boost,site=tspa.org !! Trust & Safety Professional Association
 $boost,site=trustandsafetyfoundation.org
+$boost,site=usafacts.org !! USAFacts
+
 $boost,site=verifythis.com
-/fact_meta/$boost,site=twitter.com
+$boost,site=weverify.eu
+/fact_meta/$boost,site=x.com
+
+! States and Nations
+$boost,site=africacheck.org
+$boost,site=disinfo.eu !! EU DisinfoLab
+$boost,site=edmo.eu !! European Digital Media Observatory
+/en/main/$boost,site=stopfake.org !! StopFake
+$boost,site=tipaz.org !! The Integrity Project, Arizona
+$boost,site=tnc.news !! True North, Canada
+$boost,site=veraai.eu
+
+! Journalism
+$boost,site=newsinitiative.withgoogle.com !! Google news Initiative
+$boost,site=poynter.org !! Poynter
+$boost,site=ejc.net !! European Journalism Centre
+
