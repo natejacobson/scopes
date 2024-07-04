@@ -5,19 +5,33 @@
 ! homepage: https://scopes.quest
 ! avatar: #ca0800
 
+$downrank=5,site=apnews.com
+$downrank=10,site=axios.com
 $downrank=10,site=latimes.com
 $downrank=10,site=nytimes.com
+$downrank=8,site=usatoday.com
+$downrank=10,site=politicio.com
+$downrank=10,site=slate.com
 $downrank=10,site=vox.com
 $downrank=10,site=washingtonpost.com
 $downrank=10,site=wikipedia.org
+$downrank=10,site=yahoo.com
+$downrank=10,site=theguardian.com
+$downrank=5,site=the-independent.com
 
 ! TV
 
 $downrank=10,site=abcnews.com
+$downrank=4,site=bbc.com
 $downrank=10,site=nbcnews.com
 $downrank=8,site=cbsnews.com
 $downrank=10,site=cnn.com
 $downrank=10,site=npr.org
+
+! Facts
+
+$downrank=10,site=politifact.com
+$downrank=10,site=snopes.com
 
 ! Christian
 
