@@ -9,3 +9,4 @@ $discard
 
 $boost,site=edu
 $boost,site=scholar.google.com
+$boost,site=loc.gov
