@@ -6,9 +6,11 @@
 ! avatar: #ca0800
 
 $downrank=5,site=apnews.com
-$downrank=10,site=axios.com
-$downrank=10,site=latimes.com
-$downrank=10,site=nytimes.com
+$downrank=8,site=axios.com
+$downrank=8,site=latimes.com
+$dowrank=8,site=thenation.com
+$dowrank=8,site=newyorker.com
+$downrank=8,site=nytimes.com
 $downrank=8,site=usatoday.com
 $downrank=10,site=politicio.com
 $downrank=10,site=slate.com
