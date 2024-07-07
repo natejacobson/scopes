@@ -7,11 +7,16 @@
 
 $downrank=5,site=apnews.com
 $downrank=8,site=axios.com
+$downrank=10,site=theguardian.com
+$downrank=5,site=huffpost.com
+$downrank=5,site=theintercept.com
+$downrank=5,site=jacobin.com
 $downrank=8,site=latimes.com
-$dowrank=8,site=thenation.com
-$dowrank=8,site=newyorker.com
-$downrank=8,site=nytimes.com
-$downrank=8,site=usatoday.com
+$downrank=8,site=thenation.com
+$downrank=5,site=motherjones.com
+$downrank=5,site=newyorker.com
+$downrank=10,site=nytimes.com
+$downrank=10,site=usatoday.com
 $downrank=10,site=politicio.com
 $downrank=10,site=slate.com
 $downrank=10,site=vox.com
@@ -24,7 +29,9 @@ $downrank=5,site=the-independent.com
 ! TV
 
 $downrank=10,site=abcnews.com
+$downrank=5,site=democracynow.org
 $downrank=4,site=bbc.com
+$downrank=10,site=msnbc.com
 $downrank=10,site=nbcnews.com
 $downrank=8,site=cbsnews.com
 $downrank=10,site=cnn.com
