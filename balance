@@ -16,8 +16,10 @@ $downrank=5,site=jacobin.com
 $downrank=8,site=latimes.com
 $downrank=8,site=thenation.com
 $downrank=5,site=motherjones.com
+$downrank=2,site=newsweek.com
 $downrank=5,site=newyorker.com
 $downrank=10,site=nytimes.com
+$downrank=8,site=time.com
 $downrank=10,site=usatoday.com
 $downrank=10,site=politicio.com
 $downrank=10,site=slate.com
