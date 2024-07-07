@@ -5,7 +5,9 @@
 ! homepage: https://scopes.quest
 ! avatar: #ca0800
 
+$downrank=5,site=alternet.org
 $downrank=5,site=apnews.com
+$downrank=10,site=theatlantic.com
 $downrank=8,site=axios.com
 $downrank=10,site=theguardian.com
 $downrank=5,site=huffpost.com
@@ -66,7 +68,7 @@ $boost,site=rethinkinghell.com
 $boost,site=salvo.com
 $boost,site=seenandunseen.com
 $boost,site=touchstonemag.com
-$boost,site=wng.org
+$boost=10,site=wng.org
 $boost,site=worldviewbulletin.substack.com
 
 ! Publications
