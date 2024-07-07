@@ -11,8 +11,8 @@ $downrank=10,site=theatlantic.com
 $downrank=8,site=axios.com
 $downrank=5,site=businessinsider.com
 $downrank=7,site=thedailybeast.com
-$uprank=5,site=dailymail.co.uk
-$uprank=10,site=thefederalist.com
+$boost=5,site=dailymail.co.uk
+$boost=10,site=thefederalist.com
 $downrank=10,site=theguardian.com
 $downrank=5,site=huffpost.com
 $downrank=5,site=theintercept.com
@@ -23,12 +23,12 @@ $downrank=5,site=motherjones.com
 $downrank=2,site=newsweek.com
 $downrank=5,site=newyorker.com
 $downrank=10,site=nytimes.com
-$uprank=10,site=thepostmillenial.com
+$boost=10,site=thepostmillenial.com
 $downrank=10,site=propublica.org
-$uprank=10,site=realcleareducation.com
-$uprank=10,site=realclearpolitics.com
-$uprank=10,site=realclearreligion.com
-$uprank=2,site=reuters.com
+$boost=10,site=realcleareducation.com
+$boost=10,site=realclearpolitics.com
+$boost=10,site=realclearreligion.com
+$boost=2,site=reuters.com
 $downrank=8,site=time.com
 $downrank=10,site=usatoday.com
 $downrank=10,site=politico.com
@@ -45,16 +45,16 @@ $downrank=5,site=the-independent.com
 $downrank=10,site=abcnews.com
 $downrank=5,site=democracynow.org
 $downrank=4,site=bbc.com
-$uprank=2,site=dailywire.com
-$uprank=2,site=foxnews.com
+$boost=2,site=dailywire.com
+$boost=2,site=foxnews.com
 $downrank=10,site=msnbc.com
 $downrank=10,site=nbcnews.com
 $downrank=8,site=cbsnews.com
 $downrank=10,site=cnn.com
 $downrank=10,site=npr.org
-$uprank=2,site=ntd.com
-$uprank=2,site=newsmax.com
-$uprank=2,site=oann.com
+$boost=2,site=ntd.com
+$boost=2,site=newsmax.com
+$boost=2,site=oann.com
 
 ! Facts
 
