@@ -38,11 +38,14 @@ $downrank=5,site=the-independent.com
 $downrank=10,site=abcnews.com
 $downrank=5,site=democracynow.org
 $downrank=4,site=bbc.com
+$uprank=2,site=dailywire.com
+$uprank=2,site=foxnews.com
 $downrank=10,site=msnbc.com
 $downrank=10,site=nbcnews.com
 $downrank=8,site=cbsnews.com
 $downrank=10,site=cnn.com
 $downrank=10,site=npr.org
+$uprank=2,site=ntd.com
 
 ! Facts
 
