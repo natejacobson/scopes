@@ -11,6 +11,8 @@ $downrank=10,site=theatlantic.com
 $downrank=8,site=axios.com
 $downrank=5,site=businessinsider.com
 $downrank=7,site=thedailybeast.com
+$uprank=5,site=dailymail.co.uk
+$uprank=10,site=thefederalist.com
 $downrank=10,site=theguardian.com
 $downrank=5,site=huffpost.com
 $downrank=5,site=theintercept.com
@@ -21,7 +23,12 @@ $downrank=5,site=motherjones.com
 $downrank=2,site=newsweek.com
 $downrank=5,site=newyorker.com
 $downrank=10,site=nytimes.com
+$uprank=10,site=thepostmillenial.com
 $downrank=10,site=propublica.org
+$uprank=10,site=realcleareducation.com
+$uprank=10,site=realclearpolitics.com
+$uprank=10,site=realclearreligion.com
+$uprank=2,site=reuters.com
 $downrank=8,site=time.com
 $downrank=10,site=usatoday.com
 $downrank=10,site=politico.com
@@ -46,6 +53,8 @@ $downrank=8,site=cbsnews.com
 $downrank=10,site=cnn.com
 $downrank=10,site=npr.org
 $uprank=2,site=ntd.com
+$uprank=2,site=newsmax.com
+$uprank=2,site=oann.com
 
 ! Facts
 
