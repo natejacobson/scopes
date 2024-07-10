@@ -219,6 +219,7 @@ $boost,site=pe.com
 $boost,site=thepoliticalinsider.com
 $boost,site=thepostmillennial.com
 $boost,site=powerlineblog.com
+$boost,site=publicchristianity.org
 $boost,site=quillette.com
 $boost,site=readtangle.com
 $boost,site=realclearpolitics.com
@@ -230,6 +231,7 @@ $boost,site=realclearhistory.com
 $boost,site=realclearmarkets.com
 $boost,site=realclearscience.com
 $boost,site=realclearreligion.org
+$boost=10,site=realityslaststand.com
 /r/uncensorednews/$boost=3,site=reddit.com
 /r/libertarian/$boost=3,site=reddit.com
 /r/conservative/$boost=3,site=reddit.com
@@ -269,6 +271,8 @@ $boost,site=wyofile.com
 ! Social
 $boost,site=x.com
 $boost,site=substack.com
+$downrank=5,site=quora.com
+$downrank=5,site=reddit.com
 
 ! Meta-analysis
 $boost,site=allsides.com
@@ -409,6 +413,7 @@ $boost,site=nwef.org
 $boost,site=ocpathink.org
 $boost,site=pacificresearch.org
 $boost,site=personnelpolicyops.org
+$downrank=10,site=plannedparenthood.com
 $boost,site=policysphere.com
 $boost,site=publicinterestlegal.org
 /newsroom/$boost,site=prosperousamerica.org
@@ -447,3 +452,5 @@ $downrank=10,site=rescripted.com
 $discard,site=rare.us
 $discard,site=transhub.org.au
 $discard,site=thebloodproject.com
+$discard,site=healthline.com
+$discard,site=medicalnewstoday.com
