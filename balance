@@ -23,6 +23,7 @@ $downrank=5,site=motherjones.com
 $downrank=2,site=newsweek.com
 $downrank=5,site=newyorker.com
 $downrank=10,site=nytimes.com
+$downrank=10,site=people.com
 $boost=10,site=thepostmillenial.com
 $downrank=10,site=propublica.org
 $boost=10,site=realcleareducation.com
@@ -443,3 +444,6 @@ $boost=4,site=mrc.org
 ! Discard
 $downrank=10,site=feminisminindia.com
 $downrank=10,site=rescripted.com
+$discard,site=rare.us
+$discard,site=transhub.org.au
+$discard,site=thebloodproject.com
