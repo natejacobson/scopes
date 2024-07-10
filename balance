@@ -439,3 +439,7 @@ $boost,site=texaspolicy.com
 $boost=2,site=aim.org
 $boost=4,site=newsbusters.org
 $boost=4,site=mrc.org
+
+! Discard
+$downrank=10,site=feminisminindia.com
+$downrank=10,site=rescripted.com
