@@ -1,6 +1,6 @@
 ! name: Trust But Verify
 ! description: Scope: Fact Checkers.
-! public: false
+! public: true
 ! author: Nathan J.
 ! homepage: https://scopes.quest
 ! avatar: #ca0800
