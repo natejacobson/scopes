@@ -370,6 +370,9 @@ $boost,site=victimsofcommunism.org
 $boost,site=wealthandpoverty.center
 $boost,site=yaf.org
 
+! YouTube
+/timcast/$boost=3,site=youtube.com
+
 ! States
 $boost,site=frankbeckmanncenterforjournalism.com
 $boost,site=npri.org
