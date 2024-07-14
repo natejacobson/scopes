@@ -27,6 +27,7 @@ $boost,site=herzogfoundation.com
 $boost,site=historicalapologetics.org
 $boost,site=ligonier.org
 $boost,site=nrb.org
+$boost,site=publicchristianity.org
 $boost,site=rethinkinghell.com
 $boost,site=salvo.com
 $boost,site=seenandunseen.com
@@ -371,6 +372,8 @@ $boost,site=wealthandpoverty.center
 $boost,site=yaf.org
 
 ! YouTube
+/dailywire/$boost=3,site=youtube.com
+/discoveryinstitute/$boost=3,site=youtube.com
 /timcast/$boost=3,site=youtube.com
 
 ! States
