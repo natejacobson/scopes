@@ -68,6 +68,7 @@ $downrank=10,site=snopes.com
 $boost,site=albertmohler.com
 $boost,site=biblehub.com
 $boost,site=bibleref.com
+/news/$boost,site=catholicculture.org
 $boost,site=thecatholicthing.org
 $boost,site=catholicworldreport.com
 $boost,site=christianpost.com
