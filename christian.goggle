@@ -11,11 +11,13 @@ $discard
 
 $boost,site=biblehub.com
 $boost,site=bibleref.com
+$boost,site=youbible.com
 
 ! News
 
 $boost,site=thecatholicthing.org
 $boost,site=catholicworldreport.com
+$boost,site=christianherald.org.uk
 $boost,site=christianpost.com
 $boost,site=christianitytoday.com
 $boost,site=cleartruth.media
