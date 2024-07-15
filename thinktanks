@@ -7,6 +7,7 @@
 
 $discard
 
+$boost,site=aapf.org
 $boost,site=aapeaceinstitute.org
 $boost,site=acton.org
 $boost,site=aei.org
