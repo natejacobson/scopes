@@ -1,0 +1,39 @@
+! name: Christian
+! description: Scope: Christian sites within historic tradition.
+! public: true
+! author: Nathan J.
+! homepage: https://scopes.quest
+! avatar: #ca0800
+
+$discard
+
+! Reference
+
+$boost,site=biblehub.com
+$boost,site=bibleref.com
+
+! News
+
+$boost,site=thecatholicthing.org
+$boost,site=catholicworldreport.com
+$boost,site=christianpost.com
+$boost,site=christianitytoday.com
+$boost,site=cleartruth.media
+$boost,site=creation.com
+$boost,site=crosswalk.com
+$boost,site=davenantinstitute.org
+$boost,site=equip.org
+$boost,site=firstthings.com
+$boost,site=thegospelcoalition.org
+$boost,site=gotquestions.org
+$boost,site=herzogfoundation.com
+$boost,site=historicalapologetics.org
+$boost,site=ligonier.org
+$boost,site=nrb.org
+$boost,site=publicchristianity.org
+$boost,site=rethinkinghell.com
+$boost,site=salvo.com
+$boost,site=seenandunseen.com
+$boost,site=touchstonemag.com
+$boost,site=wng.org
+$boost,site=worldviewbulletin.substack.com
