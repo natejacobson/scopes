@@ -11,6 +11,7 @@ $downrank=10,site=theatlantic.com
 $downrank=8,site=axios.com
 $downrank=5,site=businessinsider.com
 $downrank=7,site=thedailybeast.com
+$boost,site=dailycaller.com
 $boost=5,site=dailymail.co.uk
 $boost=10,site=thefederalist.com
 $downrank=10,site=theguardian.com
@@ -64,15 +65,18 @@ $downrank=10,site=snopes.com
 
 ! Christian
 
+$boost,site=albertmohler.com
 $boost,site=biblehub.com
 $boost,site=bibleref.com
 $boost,site=thecatholicthing.org
 $boost,site=catholicworldreport.com
 $boost,site=christianpost.com
 $boost,site=christianitytoday.com
+$boost,site=christianstandard.com
 $boost,site=cleartruth.media
 $boost,site=creation.com
 $boost,site=crosswalk.com
+$boost,site=cruxnow.com
 $boost,site=davenantinstitute.org
 $boost,site=equip.org
 $boost,site=firstthings.com
@@ -84,6 +88,7 @@ $boost,site=ligonier.org
 $boost,site=nrb.org
 $boost,site=rethinkinghell.com
 $boost,site=salvo.com
+$boost,site=scriptoriumdaily.com
 $boost,site=seenandunseen.com
 $boost,site=touchstonemag.com
 $boost=10,site=wng.org
@@ -137,6 +142,7 @@ $boost,site=conservativehq.com
 $boost,site=conservativereview.com
 $boost,site=thecornellreview.org
 $boost,site=thecritic.co.uk
+$boost,site=crisismagazine.com
 $boost,site=dailymail.co.uk
 $boost,site=dailysignal.com
 $boost,site=desiringgod.org
@@ -150,7 +156,6 @@ $boost,site=eviemagazine.com
 $boost,site=theepochtimes.com
 $boost,site=evolutionnews.org
 $boost,site=thefederalist.com
-
 $boost,site=freedomhouse.org
 $boost,site=freebeacon.com
 $boost,site=foxbusiness.com
@@ -192,6 +197,7 @@ $boost,site=maloneinstitute.org
 $boost,site=meforum.org
 $boost,site=mercatornet.com
 $boost,site=mereorthodoxy.com
+
 $boost,site=muckraker.com
 $boost,site=themichiganstar.com
 $boost=5,site=modernagejournal.com
@@ -248,10 +254,12 @@ $boost,site=riponadvance.com
 $boost,site=rightsidenews.com
 $boost,site=rlo.acton.org
 $boost=1,site=rumble.com
+$boost,site=saturdayeveningpost.com
 /opinion^$boost,site=scriberrnews.com
 $boost=4,site=spectator.org
 /international/$boost,site=spiegel.de
 $boost,site=spiked-online.com
+$boost,site=stanfordreview.org
 $boost,site=stream.org
 $boost,site=telegraph.co.uk
 $boost,site=tabletmag.com
@@ -279,6 +287,9 @@ $downrank=5,site=reddit.com
 $boost,site=allsides.com
 $boost,site=ground.news
 $boost,site=mrc.org
+
+! Medical
+$boost,site=aapsonline.org
 
 ! Political 
 $boost,site=gop.gov
@@ -315,6 +326,7 @@ $boost=4,site=bio-complexity.org
 $boost=5,site=christianscholars.com
 $boost=5,site=epsociety.org
 $boost=5,site=scholar.google.com
+$boost,site=telospress.com
 
 ! Original Sources
 $boost,site=archive.org
@@ -421,7 +433,7 @@ $downrank=10,site=plannedparenthood.com
 $boost,site=policysphere.com
 $boost,site=publicinterestlegal.org
 /newsroom/$boost,site=prosperousamerica.org
-$boost,site=thepublicdiscourse.com
+$boost=5,site=thepublicdiscourse.com
 $boost,site=recoveryforamerica.org
 $boost,site=reformeducation.us
 $boost,site=saveservices.org
