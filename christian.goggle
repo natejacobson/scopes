@@ -7,11 +7,18 @@
 
 $discard
 
+! Apologetics
+$boost,site=equip.org
+
 ! Reference
 
 $boost,site=biblehub.com
 $boost,site=bibleref.com
-$boost,site=youbible.com
+$boost,site=gotquestions.org
+$boost,site=bible.com
+
+! Origins and Science
+$boost,site=evolutionnews.org
 
 ! News
 
@@ -24,10 +31,9 @@ $boost,site=cleartruth.media
 $boost,site=creation.com
 $boost,site=crosswalk.com
 $boost,site=davenantinstitute.org
-$boost,site=equip.org
 $boost,site=firstthings.com
 $boost,site=thegospelcoalition.org
-$boost,site=gotquestions.org
+
 $boost,site=herzogfoundation.com
 $boost,site=historicalapologetics.org
 $boost,site=ligonier.org
@@ -39,3 +45,5 @@ $boost,site=seenandunseen.com
 $boost,site=touchstonemag.com
 $boost,site=wng.org
 $boost,site=worldviewbulletin.substack.com
+
+! Culture
