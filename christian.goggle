@@ -24,6 +24,7 @@ $boost,site=evolutionnews.org
 
 $boost,site=thecatholicthing.org
 $boost,site=catholicworldreport.com
+/cbnnews/$boost,site=cbn.org
 $boost,site=christianherald.org.uk
 $boost,site=christianpost.com
 $boost,site=christianitytoday.com
