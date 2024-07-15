@@ -17,6 +17,10 @@ $boost,site=bibleref.com
 $boost,site=gotquestions.org
 $boost,site=bible.com
 
+! Scholarship
+$boost,site=global-scholars.org
+$boost,site=epsociety.org
+
 ! Origins and Science
 $boost,site=evolutionnews.org
 
