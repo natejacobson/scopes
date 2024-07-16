@@ -290,6 +290,11 @@ $boost,site=allsides.com
 $boost,site=ground.news
 $boost,site=mrc.org
 
+! Reference
+$boost=5,site=statista.com
+$boost=10,site=usafacts.org
+
+
 ! Medical
 $boost,site=aapsonline.org
 
