@@ -198,7 +198,6 @@ $boost,site=maloneinstitute.org
 $boost,site=meforum.org
 $boost,site=mercatornet.com
 $boost,site=mereorthodoxy.com
-
 $boost,site=muckraker.com
 $boost,site=themichiganstar.com
 $boost=5,site=modernagejournal.com
@@ -248,6 +247,7 @@ $boost=10,site=realityslaststand.com
 $boost,site=reason.org
 $boost,site=reason.com
 $boost,site=redstate.com
+$boost,site=reduxx.info
 $boost,site=revolver.news
 $downrank=5,site=reuters.com
 $boost,site=richmond.com
