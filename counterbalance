@@ -247,7 +247,7 @@ $boost=10,site=realityslaststand.com
 $boost,site=reason.org
 $boost,site=reason.com
 $boost,site=redstate.com
-$boost,site=reduxx.info
+$boost=7,site=reduxx.info
 $boost,site=revolver.news
 $downrank=5,site=reuters.com
 $boost,site=richmond.com
