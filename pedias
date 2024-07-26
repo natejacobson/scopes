@@ -34,6 +34,9 @@ $boost,site=dictionary.com
 $boost,site=sparknotes.com
 $boost,site=thesaurus.com
 
+! Stats
+$boost,site=usafacts.com
+
 ! Science
 $boost,site=evolutionnews.org
 
@@ -42,6 +45,9 @@ $boost=2,site=academic.oup.com
 $boost=5,site=christianscholars.com
 $boost=5,site=epsociety.org
 $boost=5,site=scholar.google.com
+
+! Polls
+$boost,site=rasmussenreports.com
 
 ! Original Sources
 $boost=3,site=archive.org
