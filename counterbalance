@@ -154,7 +154,7 @@ $boost,site=dailywire.com
 $boost,site=dartreview.com
 $boost,site=thedispatch.com
 $boost,site=eviemagazine.com
-$boost,site=theepochtimes.com
+$boost=10,site=theepochtimes.com
 $boost,site=evolutionnews.org
 $boost,site=thefederalist.com
 $boost,site=freedomhouse.org
