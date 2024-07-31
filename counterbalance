@@ -5,42 +5,7 @@
 ! homepage: https://scopes.quest
 ! avatar: #22a3ca
 
-$downrank=5,site=alternet.org
-$downrank=5,site=apnews.com
-$downrank=10,site=theatlantic.com
-$downrank=8,site=axios.com
-$downrank=5,site=businessinsider.com
-$downrank=7,site=thedailybeast.com
-$boost,site=dailycaller.com
-$boost=5,site=dailymail.co.uk
-$boost=10,site=thefederalist.com
-$downrank=10,site=theguardian.com
-$downrank=5,site=huffpost.com
-$downrank=5,site=theintercept.com
-$downrank=5,site=jacobin.com
-$downrank=8,site=latimes.com
-$downrank=8,site=thenation.com
-$downrank=5,site=motherjones.com
-$downrank=2,site=newsweek.com
-$downrank=5,site=newyorker.com
-$downrank=10,site=nytimes.com
-$downrank=10,site=people.com
-$boost=10,site=thepostmillenial.com
-$downrank=10,site=propublica.org
-$boost=10,site=realcleareducation.com
-$boost=10,site=realclearpolitics.com
-$boost=10,site=realclearreligion.com
-$boost=2,site=reuters.com
-$downrank=8,site=time.com
-$downrank=10,site=usatoday.com
-$downrank=10,site=politico.com
-$downrank=10,site=slate.com
-$downrank=10,site=vox.com
-$downrank=10,site=washingtonpost.com
-$downrank=10,site=wikipedia.org
-$downrank=10,site=yahoo.com
-$downrank=10,site=theguardian.com
-$downrank=5,site=the-independent.com
+
 
 ! TV
 
@@ -97,7 +62,14 @@ $boost,site=worldviewbulletin.substack.com
 
 ! Publications
 
+$downrank=5,site=jacobin.com
+$downrank=10,site=theguardian.com
+$downrank=5,site=the-independent.com
 $boost,site=1792exchange.com
+$downrank=5,site=alternet.org
+$downrank=5,site=apnews.com
+$downrank=10,site=theatlantic.com
+$downrank=8,site=axios.com
 $boost,site=aaplog.org
 $boost,site=aclj.org
 $boost,site=adflegal.org
@@ -115,11 +87,13 @@ $boost,site=the-american-interest.com
 $boost,site=americanmind.org
 $boost,site=americanoutlook.org
 $boost,site=amworkers.com
+$downrank=7,site=thedailybeast.com
 $boost,site=theblaze.com
 $boost,site=breitbart.com
 $boost,site=bearingdrift.com
 $boost,site=bitchute.com
 $boost,site=bonginoreport.com
+$downrank=5,site=businessinsider.com
 $boost,site=campusreform.org
 $boost,site=capitalresearch.org
 $boost,site=carolinareviewonline.org
@@ -148,6 +122,8 @@ $boost,site=dailymail.co.uk
 $boost,site=dailysignal.com
 $boost,site=desiringgod.org
 $boost,site=deseret.com
+$boost,site=dailycaller.com
+$boost=5,site=dailymail.co.uk
 $boost,site=dailypress.com
 $boost,site=dailycitizen.focusonthefamily.com
 $boost,site=dailywire.com
@@ -156,7 +132,7 @@ $boost,site=thedispatch.com
 $boost,site=eviemagazine.com
 $boost=10,site=theepochtimes.com
 $boost,site=evolutionnews.org
-$boost,site=thefederalist.com
+$boost=10,site=thefederalist.com
 $boost,site=freedomhouse.org
 $boost,site=freebeacon.com
 $boost,site=foxbusiness.com
@@ -167,13 +143,16 @@ $boost,site=foxnews.com
 /index.html^$boost=2,site=latino.foxnews.com
 $boost,site=frontpagemag.com
 $boost,site=georgiastarnews.com
+$downrank=5,site=theguardian.com
 $boost,site=harvard-jlpp.com
 $boost,site=heavy.com
 $boost,site=hotair.com
+$downrank=5,site=huffpost.com
 $boost,site=humanevents.com
 $boost,site=hungarianconservative.com
 $boost,site=icr.org
 $boost,site=theimaginativeconservative.org
+$downrank=5,site=theintercept.com
 $boost,site=iowatorch.com
 $boost,site=investors.com
 $boost,site=independent.org
@@ -182,6 +161,7 @@ $boost,site=ijreview.com
 $boost,site=justthenews.com
 $boost,site=kenyonobserver.wordpress.com
 $boost,site=ksl.com
+$downrank=8,site=latimes.com
 $boost,site=lawenforcementtoday.com
 $boost,site=thelibertarianrepublic.com
 $boost,site=lifesitenews.com
@@ -193,43 +173,51 @@ $boost,site=liveactionnews.org
 $boost,site=leadershipinstitute.org
 $boost,site=leesburgtoday.com
 $boost,site=loneconservative.com
+$downrank=8,site=thenation.com
 $boost,site=mackinac.org
 $boost,site=maloneinstitute.org
 $boost,site=meforum.org
 $boost,site=mercatornet.com
 $boost,site=mereorthodoxy.com
+$downrank=5,site=motherjones.com
 $boost,site=muckraker.com
 $boost,site=themichiganstar.com
 $boost=5,site=modernagejournal.com
+$downrank=5,site=newyorker.com
 /opinion^$boost=3,site=nypost.com
+$boost,site=nationalreview.com
+$boost,site=nationalpost.com
+$boost,site=thenationalpulse.com
 /insiders^$boost=3,site=newsmax.com
 $boost,site=newsmax.com
 $boost,site=newsbusters.org
 $boost,site=newsnationnow.com
-$boost,site=nationalreview.com
-$boost,site=nationalpost.com
+$downrank=2,site=newsweek.com
 $boost,site=newcriterion.com
-! $downrank=5,site=nytimes.com
 $boost,site=notthebee.com
 $boost,site=ntd.com
 $boost,site=nypost.com
 $boost,site=nfib.com
-$boost,site=thenationalpulse.com
+$downrank=8,site=nytimes.com
 $boost,site=ocregister.com
 $boost,site=okeefemediagroup.com
 $boost,site=palladiummag.com
-$boost,site=newsweek.com
+$downrank=10,site=people.com
 $boost,site=pjmedia.com
+$boost=10,site=thepostmillenial.com
+$downrank=10,site=propublica.org
 $boost,site=prageru.com
 $boost,site=projectveritas.com
 $boost,site=penncapital-star.com
 $boost,site=pe.com
 $boost,site=thepoliticalinsider.com
+$downrank=10,site=politico.com
 $boost,site=thepostmillennial.com
 $boost,site=powerlineblog.com
 $boost,site=publicchristianity.org
 $boost,site=quillette.com
 $boost,site=readtangle.com
+$boost=2,site=reuters.com
 $boost,site=realclearpolitics.com
 $boost,site=realcleardefense.com
 $boost,site=realcleareducation.com
@@ -270,6 +258,12 @@ $boost,site=tnc.news
 $boost,site=townhall.com
 $boost,site=unherd.com
 $boost,site=upwardnews.com
+$downrank=8,site=time.com
+$downrank=10,site=usatoday.com
+$downrank=10,site=slate.com
+$downrank=10,site=vox.com
+$downrank=10,site=washingtonpost.com
+$downrank=10,site=wikipedia.org
 $boost,site=washingtontimes.com
 $boost,site=westernjournalism.com
 $boost,site=washingtonexaminer.com
@@ -278,6 +272,7 @@ $boost,site=woodsoncenter.org
 $boost,site=workersforopportunity.org
 $boost,site=wsj.com
 $boost,site=wyofile.com
+$downrank=10,site=yahoo.com
 
 ! Social
 $boost,site=x.com
@@ -293,7 +288,6 @@ $boost,site=mrc.org
 ! Reference
 $boost=5,site=statista.com
 $boost=10,site=usafacts.org
-
 
 ! Medical
 $boost,site=aapsonline.org
