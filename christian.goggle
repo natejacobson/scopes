@@ -58,3 +58,6 @@ $boost,site=worldviewbulletin.substack.com
 
 ! Youth
 $boost,site=rootedministry.com
+
+! Sex and Gender
+/topics/lgbt/$boost,site=thegospelcoalition.org
