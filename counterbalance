@@ -26,7 +26,7 @@ $boost=2,site=oann.com
 ! Facts
 
 $downrank=10,site=politifact.com
-$downrank=10,site=snopes.com
+$downrank=5,site=snopes.com
 
 ! Christian
 
