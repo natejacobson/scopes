@@ -347,6 +347,10 @@ $boost,site=nas.org
 $boost,site=biola.edu
 $boost,site=phc.edu
 
+! Technology
+$boost,site=mindmatters.ai
+$boost,site=piratewires.com
+
 ! Think Tanks, Institutes, and Advocacy
 $boost,site=aei.org
 $boost,site=goacta.org
@@ -419,7 +423,6 @@ $boost,site=isi.org
 $boost,site=iwf.org
 $boost,site=macarthursociety.org
 $boost,site=mindingthecampus.org
-$boost,site=mindmatters.ai
 $boost,site=mises.org
 $boost,site=momsforliberty.org
 $boost,site=nationalcenter.org
