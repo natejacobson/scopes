@@ -349,6 +349,7 @@ $boost,site=phc.edu
 
 ! Technology
 $boost,site=mindmatters.ai
+$boost,site=thenewatlantis.com
 $boost,site=piratewires.com
 
 ! Think Tanks, Institutes, and Advocacy
@@ -427,7 +428,6 @@ $boost,site=mises.org
 $boost,site=momsforliberty.org
 $boost,site=nationalcenter.org
 $boost,site=nativesovereignty.com
-$boost,site=thenewatlantis.com
 $boost,site=nra.org
 $boost,site=nrtw.org
 $boost,site=nwef.org
