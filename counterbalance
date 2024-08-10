@@ -352,6 +352,9 @@ $boost,site=mindmatters.ai
 $boost,site=thenewatlantis.com
 $boost,site=piratewires.com
 
+! Environment
+$boost,site=cornwallalliance.org
+
 ! Think Tanks, Institutes, and Advocacy
 $boost,site=aei.org
 $boost,site=goacta.org
