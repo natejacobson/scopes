@@ -14,10 +14,15 @@ $boost,site=josh.org
 $boost,site=worldviewbulletin.substack.com
 $boost,site=reasonablefaith.org
 $boost,site=seanmcdowell.org
+$boost,site=seenandunseen.com
+
+! Philosophy
+$boost,site=worldviewbulletin.substack.com
 
 ! Reference
 $boost,site=gotquestions.org
-
+$boost,site=gutenberg.org
+$boost,site=archive.org
 
 ! Bible
 $boost,site=bible.com
@@ -49,23 +54,22 @@ $boost,site=cleartruth.media
 $boost,site=creation.com
 $boost,site=crosswalk.com
 $boost,site=davenantinstitute.org
-$boost,site=firstthings.com
 $boost,site=thegospelcoalition.org
-
 $boost,site=herzogfoundation.com
 $boost,site=historicalapologetics.org
-$boost,site=ligonier.org
 $boost,site=nrb.org
-$boost,site=publicchristianity.org
-$boost,site=rethinkinghell.com
-$boost,site=salvo.com
-$boost,site=seenandunseen.com
-$boost,site=touchstonemag.com
 $boost,site=wng.org
-$boost,site=worldviewbulletin.substack.com
+
+! Theology
+$boost,site=rethinkinghell.com
+$boost,site=ligonier.org
 
 ! Culture
 $boost,site=challies.com
+$boost,site=firstthings.com
+$boost,site=publicchristianity.org
+$boost,site=salvo.com
+$boost,site=touchstonemag.com
 
 ! Youth
 $boost,site=rootedministry.com
