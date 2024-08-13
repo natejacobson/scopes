@@ -8,5 +8,10 @@
 $discard
 
 $boost,site=edu
-$boost,site=scholar.google.com
 $boost,site=loc.gov
+
+! Academic and Research Papers
+$boost,site=jstor.org
+$boost,site=researchhub.com
+$boost,site=academia.edu
+$boost,site=scholar.google.com
