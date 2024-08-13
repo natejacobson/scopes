@@ -9,13 +9,22 @@ $discard
 
 ! Apologetics
 $boost,site=equip.org
+$boost,site=historicalapologetics.org
+$boost,site=josh.org
+$boost,site=worldviewbulletin.substack.com
+$boost,site=reasonablefaith.org
+$boost,site=seanmcdowell.org
 
 ! Reference
+$boost,site=gotquestions.org
 
+
+! Bible
+$boost,site=bible.com
 $boost,site=biblehub.com
 $boost,site=bibleref.com
-$boost,site=gotquestions.org
-$boost,site=bible.com
+$boost,site=bibleproject.com
+
 
 ! Scholarship
 $boost,site=global-scholars.org
