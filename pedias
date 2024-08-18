@@ -10,6 +10,7 @@ $discard
 ! Encyclopedias
 $boost=5,site=britannica.com
 $boost=5,site=encyclopedia.com
+$boost=5,site=encycloreader.org
 $boost=2,site=iep.utm.edu
 $boost=2,site=howstuffworks.com
 $boost=2,site=infoplease.com
