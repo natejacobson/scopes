@@ -193,7 +193,6 @@ $boost,site=newsmax.com
 $boost,site=newsbusters.org
 $boost,site=newsnationnow.com
 $downrank=2,site=newsweek.com
-$boost,site=newcriterion.com
 $boost,site=notthebee.com
 $boost,site=ntd.com
 $boost,site=nypost.com
@@ -273,6 +272,10 @@ $boost,site=workersforopportunity.org
 $boost,site=wsj.com
 $boost,site=wyofile.com
 $downrank=10,site=yahoo.com
+
+! Culture
+$boost,site=athwart.org
+$boost,site=newcriterion.com
 
 ! Social
 $boost,site=x.com
