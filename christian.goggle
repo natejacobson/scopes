@@ -24,6 +24,9 @@ $boost,site=gotquestions.org
 $boost,site=gutenberg.org
 $boost,site=archive.org
 
+! Issues
+$boost,site=libertymagazine.org
+
 ! Bible
 $boost,site=bible.com
 $boost,site=biblehub.com
