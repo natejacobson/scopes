@@ -357,6 +357,7 @@ $downrank=8,crisispregnancycentermap.com
 $downrank=5,site=mass.gov
 $downrank=8,site=plannedparenthood.com
 $downrank=8,site=plannedparenthood.org
+/25091391/$downrank=8,site=pubmed.ncbi.nlm.nih.gov
 
 ! Technology
 $boost,site=mindmatters.ai
