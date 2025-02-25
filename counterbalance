@@ -326,6 +326,7 @@ $boost=5,site=plato.stanford.edu
 ! $downrank=7,site=wikipedia.org
 
 ! Journals and Academic Works
+$downrank=7,site=acog.org
 $boost=2,site=academic.oup.com
 $boost=4,site=bio-complexity.org
 $boost=5,site=christianscholars.com
@@ -392,6 +393,7 @@ $boost,site=committeeforjustice.org
 $boost,site=concernedwomen.org
 $boost,site=consumersresearch.org
 $boost,site=cpi.org
+$downrank=8,crisispregnancycentermap.com
 $boost,site=dartreview.com
 $boost,site=dfipolicy.org
 $boost,site=discovery.org
@@ -429,6 +431,7 @@ $boost,site=illusionconsensus.com
 $boost,site=instituteforenergyresearch.org
 $boost,site=isi.org
 $boost,site=iwf.org
+$boost,site=lozierinstitute.org
 $boost,site=macarthursociety.org
 $boost,site=mindingthecampus.org
 $boost,site=mises.org
@@ -441,7 +444,8 @@ $boost,site=nwef.org
 $boost,site=ocpathink.org
 $boost,site=pacificresearch.org
 $boost,site=personnelpolicyops.org
-$downrank=10,site=plannedparenthood.com
+$downrank=8,site=plannedparenthood.com
+$downrank=8,site=plannedparenthood.com
 $boost,site=policysphere.com
 $boost,site=publicinterestlegal.org
 /newsroom/$boost,site=prosperousamerica.org
