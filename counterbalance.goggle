@@ -353,7 +353,7 @@ $boost,site=phc.edu
 
 ! Abortion
 $downrank=7,site=acog.org
-$downrank=8,crisispregnancycentermap.com
+$downrank=8,site=crisispregnancycentermap.com
 $downrank=5,site=mass.gov
 $downrank=8,site=plannedparenthood.com
 $downrank=8,site=plannedparenthood.org
