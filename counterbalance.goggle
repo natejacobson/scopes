@@ -249,6 +249,7 @@ $boost=4,site=spectator.org
 /international/$boost,site=spiegel.de
 $boost,site=spiked-online.com
 $boost,site=stanfordreview.org
+$boost,site=san.com
 $boost,site=stream.org
 $boost,site=telegraph.co.uk
 $boost,site=tabletmag.com
