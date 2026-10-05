@@ -131,7 +131,7 @@ $boost,site=dartreview.com
 $boost,site=thedispatch.com
 $boost,site=eviemagazine.com
 $boost=10,site=theepochtimes.com
-$boost,site=evolutionnews.org
+$boost=10,site=scienceandculture.com
 $boost=10,site=thefederalist.com
 $boost,site=freedomhouse.org
 $boost,site=freebeacon.com
