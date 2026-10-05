@@ -182,7 +182,6 @@ $boost,site=mereorthodoxy.com
 $downrank=5,site=motherjones.com
 $boost,site=muckraker.com
 $boost,site=themichiganstar.com
-$boost=5,site=modernagejournal.com
 $downrank=5,site=newyorker.com
 /opinion^$boost=3,site=nypost.com
 $boost,site=nationalreview.com
@@ -276,6 +275,7 @@ $downrank=10,site=yahoo.com
 
 ! Culture
 $boost,site=athwart.org
+$boost=5,site=modernagejournal.com
 $boost,site=newcriterion.com
 
 ! Social
