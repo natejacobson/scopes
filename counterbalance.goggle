@@ -295,6 +295,7 @@ $boost=10,site=usafacts.org
 
 ! Medical
 $boost,site=aapsonline.org
+$downrank=10,site=healthgrades.com
 
 ! Political 
 $boost,site=gop.gov
